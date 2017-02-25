@@ -1,0 +1,8 @@
+<root>
+    <mappings>
+        <mapping>
+            <intface>rpc.test.Test</intface>
+            <impl>rpc.test.TestImpl</impl>
+        </mapping>
+    </mappings>
+</root>
